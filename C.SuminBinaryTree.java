@@ -1,6 +1,8 @@
  //Question 1 (C. Sum in Binary Tree)
+// The root of the tree has vertex number 1.
+// Each vertex has exactly two children, numbered consecutively.
+// The children of a vertex i are 2*i and 2*i + 1.
 import java.util.Scanner;
- 
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
